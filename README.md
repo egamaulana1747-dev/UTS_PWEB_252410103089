@@ -30,22 +30,22 @@ tanggal pengamatan, magnitudo, dan status cuaca saat itu.
 ## Screenshot
 
 ### Login
-![Login](screenshots/login.png)
+![Login](screenshots/Login.png)
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Dashboard.png)
 
 ### Pengelolaan
-![Pengelolaan](screenshots/pengelolaan.png)
+![Pengelolaan](screenshots/Pengelolaan.png)
 
 ### Profil
-![Profil](screenshots/profile.png)
+![Profil](screenshots/Profile.png)
 
 ## Cara Menjalankan
 
 ```bash
-git clone https://github.com/[username_github]/UTS_PWEB_[NIM].git
-cd UTS_PWEB_[NIM]
+git clone https://github.com/egamaulana1747-dev/UTS_PWEB_252410103089.git
+cd UTS_PWEB_252410103089
 composer install
 cp .env.example .env
 php artisan key:generate
